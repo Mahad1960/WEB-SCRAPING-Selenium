@@ -1,6 +1,6 @@
-# Amazon Web Scraper with BeautifulSoup:
+# Web Scraping AMAZON Data with Selenium:
 
-This project demonstrates a simple and effective way to scrape product data (title, price, and link) from saved Amazon HTML pages using **Python** and **BeautifulSoup**. The extracted data is organized into a structured format and exported to a CSV file for further analysis.
+This project demonstrates a simple and effective way to scrape product data (title, price, and link) from saved Amazon HTML pages using **Python**, **Selenium** and **BeautifulSoup**. The extracted data is organized into a structured format and exported to a CSV file for further analysis.
 
 Overview:
 
@@ -13,5 +13,6 @@ Technologies Used:
 
 - Python 
 - BeautifulSoup
+- Selenium
 - pandas
 - Standard libraries: `os`
